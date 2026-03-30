@@ -23,3 +23,7 @@ If you accidentally say no, you can go to your settings and reset the option for
 
 In Chrome, Google says to look under Permissions at Settings > Privacy and security > Site settings > Location
 Safari is similar, Safari > Settings > Websites > Location
+
+You are starting from scratch, with no HTML or Javascript template.
+
+YOU MUST PUT YOUR NAME IN THE SUBMSSION! This is critical, as there are some mixed up userid to Github ID matchings. 
