@@ -21,8 +21,8 @@ When you run this, you will get a pop-up asking if the site can use your locatio
 
 If you accidentally say no, you can go to your settings and reset the option for this "website".
 
-In Chrome, Google says to look under Permissions at Settings > Privacy and security > Site settings > Location
-Safari is similar, Safari > Settings > Websites > Location
+- In Chrome, Google says to look under Permissions at Settings > Privacy and security > Site settings > Location
+- Safari is similar, Safari > Settings > Websites > Location
 
 You are starting from scratch, with no HTML or Javascript template.
 
