@@ -26,4 +26,4 @@ Safari is similar, Safari > Settings > Websites > Location
 
 You are starting from scratch, with no HTML or Javascript template.
 
-YOU MUST PUT YOUR NAME IN THE SUBMSSION! This is critical, as there are some mixed up userid to Github ID matchings. 
+*YOU MUST PUT YOUR NAME IN THE SUBMSSION!* This is critical, as there are some mixed up userid to Github ID matchings. 
